@@ -36,4 +36,6 @@ I'm a passionate **Full Stack Developer** and tech enthusiast who loves creating
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
 
+![GitHub Snake Light](https://github.com/Partha9749/Partha9749/blob/output/snake-light.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Partha9749/Partha9749/blob/output/snake-dark.svg#gh-dark-mode-only)
 
