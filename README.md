@@ -29,7 +29,7 @@ I'm a passionate **Full Stack Developer** and tech enthusiast who loves creating
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Partha9749)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/partha_017?igsh=d28wZXVtcGVndm1z)
